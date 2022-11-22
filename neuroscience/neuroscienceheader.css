@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'star';
+    src: url('font/Starjedi.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: 'oswald';
+    src: url('fonts/oswald.ttf')
+    format('truetype');
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+    text-align: justify;
+    margin: 0;
+    background-image: linear-gradient(to bottom,
+    rgb(255, 255, 255), rgb(240, 240, 240),  rgb(229, 229, 229) );
+}
+
+/* HEADER COMEÇA AQUI */
+
+header{
+    background-image: linear-gradient(to top,
+    rgb(13, 84, 0), rgb(25, 138, 0),  rgb(27, 186, 35) );
+    margin: 0px;
+    padding: 5px  2px 0px 10px;
+
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+a#prime {
+    background-color: rgb(0, 127, 8);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#program {
+    background-color: rgb(0, 127, 8);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#astro {
+    background-color: rgb(0, 127, 8);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#neuro {
+    background-color: rgb(0, 127, 8);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#neuro:hover{
+    background-color: rgb(44, 182, 20);
+}
+a#astro:hover{
+    background-color: rgb(44, 182, 20);
+}
+a#program:hover{
+    background-color: rgb(44, 182, 20);
+}
+a#prime:hover{
+    background-color: rgb(44, 182, 20);
+}
+nav#navegacao{
+    text-align: justify;
+
+}
+
+/* TERMINA AQUI */

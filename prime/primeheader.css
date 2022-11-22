@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'star';
+    src: url('fonts/Starjedi.ttf')
+    format('truetype');
+}
+@font-face {
+    font-family: 'oswald';
+    src: url('fonts/oswald.ttf')
+    format('truetype');
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 0;
+    background-image: linear-gradient(to bottom,
+    rgb(255, 255, 255), rgb(240, 240, 240),  rgb(229, 229, 229) );
+}
+
+/* HEADER COMEÇA AQUI */
+
+header{
+    background-image: linear-gradient(to top,
+    rgb(0, 0, 0), rgb(15, 15, 15),  rgb(30, 30, 30) );
+    margin: 0px;
+    padding: 5px  2px 0px 10px;
+
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header > a{
+    transition-duration: .5s;
+}
+a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+
+/* botao home */
+a#prime {
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px 3px 3px 3px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#prime:hover{
+    background-color: rgb(40, 40, 40);
+}
+
+/* botao astro */
+a#astro {
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px 3px 3px 3px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#astro:hover{
+    background-color: rgb(40, 40, 40);
+}
+
+/* botao program */
+a#program {
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px 3px 3px 3px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#program:hover{
+    background-color: rgb(40, 40, 40);
+}
+
+/* botao neuro */
+
+a#neuro {
+    background-color: rgb(22, 22, 22);
+    border-radius: 3px 3px 3px 3px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+a#neuro:hover{
+    background-color: rgb(40, 40, 40);
+}
+
+nav#navegacao{
+    text-align: justify;
+
+}
+
+
