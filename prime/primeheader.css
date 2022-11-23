@@ -48,7 +48,7 @@ a{
 /* botao home */
 a#prime {
     color: whitesmoke;
-    margin-right: 3px;
+    margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
 }
@@ -59,7 +59,7 @@ a#prime:hover{
 /* botao astro */
 a#astro {
     color: whitesmoke;
-    margin-right: 3px;
+    margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
 }
@@ -70,7 +70,7 @@ a#astro:hover{
 /* botao program */
 a#program {
     color: whitesmoke;
-    margin-right: 3px;
+    margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
 }
