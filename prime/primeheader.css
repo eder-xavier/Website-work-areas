@@ -50,9 +50,9 @@ a#prime {
     background-color: rgb(22, 22, 22);
     border-radius: 3px 3px 3px 3px;
     color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 8px;
-    padding-left: 8px;
+    margin-right: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 a#prime:hover{
     background-color: rgb(40, 40, 40);
@@ -63,9 +63,9 @@ a#astro {
     background-color: rgb(22, 22, 22);
     border-radius: 3px 3px 3px 3px;
     color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 8px;
-    padding-left: 8px;
+    margin-right: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 a#astro:hover{
     background-color: rgb(40, 40, 40);
@@ -76,9 +76,9 @@ a#program {
     background-color: rgb(22, 22, 22);
     border-radius: 3px 3px 3px 3px;
     color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 8px;
-    padding-left: 8px;
+    margin-right: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 a#program:hover{
     background-color: rgb(40, 40, 40);
@@ -90,9 +90,9 @@ a#neuro {
     background-color: rgb(22, 22, 22);
     border-radius: 3px 3px 3px 3px;
     color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 8px;
-    padding-left: 8px;
+    margin-right: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 a#neuro:hover{
     background-color: rgb(40, 40, 40);
