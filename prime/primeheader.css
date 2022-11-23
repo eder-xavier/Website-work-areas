@@ -64,7 +64,7 @@ a#astro {
     padding-left: 0px;
 }
 a#astro:hover{
-    color: rgb(214, 214, 214);
+    color: rgb(195, 195, 195);
 }
 
 /* botao program */
@@ -75,7 +75,7 @@ a#program {
     padding-left: 0px;
 }
 a#program:hover{
-    color: rgb(214, 214, 214);
+    color: rgb(195, 195, 195);
 }
 /* botao neuro */
 
