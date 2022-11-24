@@ -47,21 +47,23 @@ a{
 
 /* botao home */
 a#prime {
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
+    padding-bottom: 5px;
 }
 a#prime:hover{
-    color: rgb(214, 214, 214);
+    color: rgb(195, 195, 195);
 }
 
 /* botao astro */
 a#astro {
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
+    padding-bottom: 5px;
 }
 a#astro:hover{
     color: rgb(195, 195, 195);
@@ -69,10 +71,11 @@ a#astro:hover{
 
 /* botao program */
 a#program {
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     margin-right: 10px;
     padding-right: 0px;
     padding-left: 0px;
+    padding-bottom: 5px;
 }
 a#program:hover{
     color: rgb(195, 195, 195);
@@ -80,10 +83,11 @@ a#program:hover{
 /* botao neuro */
 
 a#neuro {
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     margin-right: 0px;
     padding-right: 0px;
     padding-left: 0px;
+    padding-bottom: 5px;
 }
 a#neuro:hover{
     color: rgb(214, 214, 214);

@@ -39,50 +39,48 @@ a{
 
 }
 a#prime {
-    background-color: rgb(212, 184, 0);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
 
 }
 a#program {
-    background-color: rgb(212, 184, 0);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
 }
 a#astro {
-    background-color: rgb(212, 184, 0);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+
 }
 
 a#neuro {
-    background-color: rgb(212, 184, 0);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+
 }
 a#neuro:hover{
-    background-color: rgb(255, 208, 38);
+    color: rgb(255, 208, 38);
 }
 a#astro:hover{
-    background-color: rgb(255, 208, 38);
+    color: rgb(255, 208, 38);
 }
 a#program:hover{
-    background-color: rgb(255, 208, 38);
+    color: rgb(255, 208, 38);
 }
 a#prime:hover{
-    background-color: rgb(255, 208, 38);
+    color: rgb(255, 208, 38);
 }
 
 
@@ -93,3 +91,14 @@ nav#navegacao{
 }
 
 /* TERMINA AQUI */
+
+/*Design Inicial do botão
+
+    background-color: rgb(212, 184, 0);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    */
+

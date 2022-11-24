@@ -41,52 +41,61 @@ header > a{
     transition-duration: .5s;
 }
 a#prime {
-    background-color: rgb(8, 0, 72);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+
 }
 a#program {
-    background-color: rgb(8, 0, 72);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+
 }
 a#astro {
-    background-color: rgb(8, 0, 72);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+
 }
 a#neuro {
-    background-color: rgb(8, 0, 72);
-    border-radius: 3px 3px 0px 0px;
-    color: whitesmoke;
-    margin-right: 5px;
-    padding-right: 10px;
-    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 5px;
 }
 nav#navegacao{
     text-align: justify;
 
 }
 a#neuro:hover{
-    background-color: rgb(15, 19, 129);
+    color: rgb(15, 19, 129);
 }
 a#astro:hover{
-    background-color: rgb(15, 19, 129);
+    color: rgb(15, 19, 129);
 }
 a#program:hover{
-    background-color: rgb(15, 19, 129);
+    color: rgb(15, 19, 129);
 }
 a#prime:hover{
-    background-color: rgb(15, 19, 129);
+    color: rgb(15, 19, 129);
 }
 
 /* TERMINA AQUI */
+
+/*Design antigo dos bottons:
+
+    background-color: rgb(8, 0, 72);
+    border-radius: 3px 3px 0px 0px;
+    color: whitesmoke;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    */
